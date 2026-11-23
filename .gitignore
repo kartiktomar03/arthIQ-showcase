@@ -1,0 +1,12 @@
+dist/
+node_modules/
+.env
+.env.*
+*.log
+*.csv
+*.dump
+*.sql
+.venv/
+.qdrant/
+.DS_Store
+Thumbs.db
